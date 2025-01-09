@@ -1416,7 +1416,7 @@
             <mxRectangle width="67" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vELR9jBSWaqxjt5X6Z3y-160" value="OPTIMIZER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vELR9jBSWaqxjt5X6Z3y-160" value="BACKGROUND MERGER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="176" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vELR9jBSWaqxjt5X6Z3y-361" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
